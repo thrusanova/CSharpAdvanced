@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb

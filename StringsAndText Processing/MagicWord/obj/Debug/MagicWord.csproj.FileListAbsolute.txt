@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\bin\Debug\MagicWord.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\bin\Debug\MagicWord.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\bin\Debug\MagicWord.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\obj\Debug\MagicWord.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\obj\Debug\MagicWord.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\MagicWord\obj\Debug\MagicWord.pdb

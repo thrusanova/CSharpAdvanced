@@ -1,0 +1,5 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\BasicQueueOperations\bin\Debug\BasicQueueOperations.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\BasicQueueOperations\bin\Debug\BasicQueueOperations.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\BasicQueueOperations\bin\Debug\BasicQueueOperations.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\BasicQueueOperations\obj\Debug\BasicQueueOperations.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\BasicQueueOperations\obj\Debug\BasicQueueOperations.pdb

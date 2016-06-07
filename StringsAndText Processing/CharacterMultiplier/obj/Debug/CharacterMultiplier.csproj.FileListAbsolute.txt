@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache

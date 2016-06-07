@@ -1,0 +1,5 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackOperations\bin\Debug\StackOperations.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackOperations\bin\Debug\StackOperations.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackOperations\bin\Debug\StackOperations.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackOperations\obj\Debug\StackOperations.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackOperations\obj\Debug\StackOperations.pdb

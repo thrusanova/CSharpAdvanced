@@ -1,0 +1,8 @@
+c:\Users\tanya\documents\visual studio 2015\Projects\FilesAnd\LineNumbers\bin\Debug\LineNumbers.exe.config
+c:\Users\tanya\documents\visual studio 2015\Projects\FilesAnd\LineNumbers\bin\Debug\LineNumbers.exe
+c:\Users\tanya\documents\visual studio 2015\Projects\FilesAnd\LineNumbers\bin\Debug\LineNumbers.pdb
+c:\Users\tanya\documents\visual studio 2015\Projects\FilesAnd\LineNumbers\obj\Debug\LineNumbers.exe
+c:\Users\tanya\documents\visual studio 2015\Projects\FilesAnd\LineNumbers\obj\Debug\LineNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\FilesAnd\LineNumbers\bin\Debug\inputText.txt
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\FilesAnd\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\FilesAnd\LineNumbers\bin\Debug\text.txt

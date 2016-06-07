@@ -1,0 +1,6 @@
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\bin\Debug\JavaExam23.exe.config
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\obj\Debug\JavaExam23.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\bin\Debug\JavaExam23.exe
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\bin\Debug\JavaExam23.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\obj\Debug\JavaExam23.exe
+c:\users\tanya\documents\visual studio 2015\Projects\JavaExam23\JavaExam23\obj\Debug\JavaExam23.pdb

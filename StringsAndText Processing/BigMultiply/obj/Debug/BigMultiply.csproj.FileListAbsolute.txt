@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\bin\Debug\BigMultiply.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\bin\Debug\BigMultiply.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\bin\Debug\BigMultiply.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\obj\Debug\BigMultiply.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\obj\Debug\BigMultiply.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigMultiply\obj\Debug\BigMultiply.pdb

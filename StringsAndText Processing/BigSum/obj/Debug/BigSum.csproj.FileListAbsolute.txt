@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\bin\Debug\BigSum.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\bin\Debug\BigSum.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\bin\Debug\BigSum.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\obj\Debug\BigSum.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\obj\Debug\BigSum.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\BigSum\obj\Debug\BigSum.pdb

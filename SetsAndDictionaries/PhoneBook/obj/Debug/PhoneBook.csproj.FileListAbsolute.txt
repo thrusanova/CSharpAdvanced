@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PhoneBook\obj\Debug\PhoneBook.pdb

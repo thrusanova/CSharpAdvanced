@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

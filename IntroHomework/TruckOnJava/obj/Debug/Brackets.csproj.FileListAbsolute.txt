@@ -1,0 +1,5 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\TruckOnJava\bin\Debug\TruckOnJava.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\TruckOnJava\bin\Debug\TruckOnJava.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\TruckOnJava\bin\Debug\TruckOnJava.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\TruckOnJava\obj\Debug\TruckOnJava.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\TruckOnJava\obj\Debug\TruckOnJava.pdb

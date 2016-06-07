@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\bin\Debug\HandsOfCards.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\bin\Debug\HandsOfCards.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\obj\Debug\HandsOfCards.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\HandsOfCards\obj\Debug\HandsOfCards.pdb

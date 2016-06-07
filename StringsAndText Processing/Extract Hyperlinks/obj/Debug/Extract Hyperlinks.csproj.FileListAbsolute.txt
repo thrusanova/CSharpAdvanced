@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.exe.manifest
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.application
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.exe.manifest
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.application

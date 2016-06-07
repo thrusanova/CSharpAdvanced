@@ -1,0 +1,5 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackFibonacci\bin\Debug\StackFibonacci.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackFibonacci\bin\Debug\StackFibonacci.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackFibonacci\bin\Debug\StackFibonacci.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackFibonacci\obj\Debug\StackFibonacci.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\StackFibonacci\obj\Debug\StackFibonacci.pdb

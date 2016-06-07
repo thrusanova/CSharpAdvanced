@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb

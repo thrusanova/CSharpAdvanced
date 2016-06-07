@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.pdb

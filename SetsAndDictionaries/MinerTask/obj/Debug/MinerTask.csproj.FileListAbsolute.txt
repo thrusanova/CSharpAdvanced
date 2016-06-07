@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\bin\Debug\MinerTask.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\bin\Debug\MinerTask.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\bin\Debug\MinerTask.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\obj\Debug\MinerTask.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\obj\Debug\MinerTask.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\MinerTask\obj\Debug\MinerTask.pdb

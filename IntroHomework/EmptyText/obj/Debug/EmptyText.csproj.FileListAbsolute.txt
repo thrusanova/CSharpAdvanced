@@ -1,0 +1,6 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\bin\Debug\EmptyText.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\bin\Debug\EmptyText.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\bin\Debug\EmptyText.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\obj\Debug\EmptyText.csprojResolveAssemblyReference.cache
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\obj\Debug\EmptyText.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\EmptyText\obj\Debug\EmptyText.pdb

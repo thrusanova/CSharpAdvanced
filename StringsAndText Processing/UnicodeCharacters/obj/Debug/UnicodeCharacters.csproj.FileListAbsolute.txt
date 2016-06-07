@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\StringsAndText Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

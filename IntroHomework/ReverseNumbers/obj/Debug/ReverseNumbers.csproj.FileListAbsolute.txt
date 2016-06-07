@@ -1,0 +1,5 @@
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\ReverseNumbers\bin\Debug\ReverseNumbers.exe.config
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\ReverseNumbers\bin\Debug\ReverseNumbers.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\ReverseNumbers\bin\Debug\ReverseNumbers.pdb
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\ReverseNumbers\obj\Debug\ReverseNumbers.exe
+C:\Users\tanya\documents\visual studio 2015\Projects\JavaExam23\ReverseNumbers\obj\Debug\ReverseNumbers.pdb

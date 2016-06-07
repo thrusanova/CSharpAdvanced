@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\FixEmails\bin\Debug\FixEmails.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\FixEmails\bin\Debug\FixEmails.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\FixEmails\bin\Debug\FixEmails.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\FixEmails\obj\Debug\FixEmails.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\FixEmails\obj\Debug\FixEmails.pdb
