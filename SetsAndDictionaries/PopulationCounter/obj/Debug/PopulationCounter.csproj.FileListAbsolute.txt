@@ -4,3 +4,6 @@ C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\Populat
 C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
 C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PopulationCounter\obj\Debug\PopulationCounter.exe
 C:\Users\tanya\Documents\Visual Studio 2015\Projects\SetsAndDictionaries\PopulationCounter\obj\Debug\PopulationCounter.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\SetsAndDictionaries\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\SetsAndDictionaries\PopulationCounter\obj\Debug\PopulationCounter.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\CSharpAdvanced\SetsAndDictionaries\PopulationCounter\obj\Debug\PopulationCounter.pdb
